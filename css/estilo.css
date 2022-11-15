@@ -1,0 +1,18 @@
+html {
+    min-height: 100%;
+}
+body {
+    
+    background: linear-gradient(rgb(18, 28, 70), rgb(28, 44, 107));
+}
+
+h1{
+    font-size: 3rem;
+    padding: 20px;
+    background: linear-gradient(to right, rgb(58, 81, 172), rgb(0, 168, 236));
+}
+
+.card{
+    box-shadow: 3px 6px 8px 3px rgba(100, 100, 100, 0.3);
+}
+
